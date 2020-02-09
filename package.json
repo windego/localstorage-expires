@@ -1,5 +1,5 @@
 {
-    "name": "@zhangwj0520/localstorage-expires",
+    "name": "@windego/localstorage-expires",
     "version": "0.0.3",
     "description": "对localStorage进行了扩展，可以设置超时时间，添加了序列化方法",
     "main": "src/index.js",
@@ -18,10 +18,10 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zhangwj0520/localstorage-expires.git"
+        "url": "git+https://github.com/windego/localstorage-expires.git"
     },
     "bugs": {
-        "url": "https://github.com/zhangwj0520/localstorage-expires/issues"
+        "url": "https://github.com/windego/localstorage-expires/issues"
     },
-    "homepage": "https://github.com/zhangwj0520/localstorage-expires#readme"
+    "homepage": "https://github.com/windego/localstorage-expires#readme"
 }
